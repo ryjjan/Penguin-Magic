@@ -1,0 +1,31 @@
+com/ryjjan/penguin/magic/Main.java
+ com.ryjjan.penguin.magic.Main
+com/ryjjan/penguin/magic/status/Heal.java
+ com.ryjjan.penguin.magic.status.Heal
+com/ryjjan/penguin/magic/registry/ModItems.java
+ com.ryjjan.penguin.magic.registry.ModItems
+com/ryjjan/penguin/magic/blocks/ChargingStationEntity.java
+ com.ryjjan.penguin.magic.blocks.ChargingStationEntity
+com/ryjjan/penguin/magic/registry/ModStatus.java
+ com.ryjjan.penguin.magic.registry.ModStatus
+com/ryjjan/penguin/magic/status/Taming.java
+ com.ryjjan.penguin.magic.status.Taming
+com/ryjjan/penguin/magic/registry/ModBlocks.java
+ com.ryjjan.penguin.magic.registry.ModBlocks
+com/ryjjan/penguin/magic/registry/OreGeneration.java
+ com.ryjjan.penguin.magic.registry.OreGeneration
+com/ryjjan/penguin/magic/blocks/ChargingStationClient.java
+ com.ryjjan.penguin.magic.blocks.ChargingStationClient
+com/ryjjan/penguin/magic/blocks/ChargingStation.java
+ com.ryjjan.penguin.magic.blocks.ChargingStation
+ com.ryjjan.penguin.magic.blocks.ChargingStation$1
+com/ryjjan/penguin/magic/blocks/ImplementedInventory.java
+ com.ryjjan.penguin.magic.blocks.ImplementedInventory
+com/ryjjan/penguin/magic/crystals/RoseQuartz.java
+ com.ryjjan.penguin.magic.crystals.RoseQuartz
+com/ryjjan/penguin/magic/crystals/Amethyst.java
+ com.ryjjan.penguin.magic.crystals.Amethyst
+com/ryjjan/penguin/magic/blocks/ChargingStationEntityRender.java
+ com.ryjjan.penguin.magic.blocks.ChargingStationEntityRender
+com/ryjjan/penguin/magic/mixin/DefaultBiomeFeaturesMixin.java
+ com.ryjjan.penguin.magic.mixin.DefaultBiomeFeaturesMixin

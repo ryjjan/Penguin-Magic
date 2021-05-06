@@ -1,0 +1,14 @@
+{
+  "mappings": {
+    "com/ryjjan/penguin/magic/mixin/DefaultBiomeFeaturesMixin": {
+      "addDefaultOres(Lnet/minecraft/world/biome/GenerationSettings$Builder;)V": "Lnet/minecraft/class_3864;method_17006(Lnet/minecraft/class_5485$class_5495;)V"
+    }
+  },
+  "data": {
+    "named:intermediary": {
+      "com/ryjjan/penguin/magic/mixin/DefaultBiomeFeaturesMixin": {
+        "addDefaultOres(Lnet/minecraft/world/biome/GenerationSettings$Builder;)V": "Lnet/minecraft/class_3864;method_17006(Lnet/minecraft/class_5485$class_5495;)V"
+      }
+    }
+  }
+}

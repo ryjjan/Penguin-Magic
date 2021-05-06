@@ -1,0 +1,13 @@
+{
+  "item.penguinmagic.penny": "Penny",
+  "item.penguinmagic.u_rose_quartz": "Uncharged Rose Quartz",
+  "item.penguinmagic.rose_quartz": "Rose Quartz",
+  "block.penguinmagic.rose_quartz_ore": "Rose Quartz Ore",
+  "item.penguinmagic.rose_quartz_shard": "Rose Quartz Shard",
+  "item.penguinmagic.u_amethyst": "Uncharged Amethyst",
+  "item.penguinmagic.amethyst": "Amethyst",
+  "block.penguinmagic.amethyst_ore": "Amethyst Ore",
+  "item.penguinmagic.amethyst_shard": "Amethyst Shard",
+  "block.penguinmagic.charging_station": "Charging Station",
+  "itemGroup.penguinmagic.general": "Penguin Magic"
+}

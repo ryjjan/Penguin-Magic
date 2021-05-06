@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "particle": "penguinmagic:block/charging_station_bot",
+    "up": "penguinmagic:block/charging_station_top",
+    "down": "penguinmagic:block/charging_station_bot",
+    "north": "penguinmagic:block/charging_station_north",
+    "south": "penguinmagic:block/charging_station_south",
+    "east": "penguinmagic:block/charging_station_east",
+    "west": "penguinmagic:block/charging_station_west"
+  }
+}
