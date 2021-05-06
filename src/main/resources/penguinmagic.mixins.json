@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.ryjjan.penguin.magic.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+  ],
+  "client": [
+    "DefaultBiomeFeaturesMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

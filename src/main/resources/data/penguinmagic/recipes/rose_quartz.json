@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SSS",
+    "SSS",
+    "SSS"
+  ],
+  "key": {
+    "S": {
+      "item": "penguinmagic:rose_quartz_shard"
+    }
+  },
+  "result": {
+    "item": "penguinmagic:u_rose_quartz",
+    "count": 1
+  }
+}
